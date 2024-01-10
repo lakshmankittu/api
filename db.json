@@ -1,5 +1,13 @@
 {
+"demo1" : {
   "name":"kittu",
   "mobile":"6304547344",
   "isavail":"True"
+}
+  ,
+  "demo2":{
+    "name":"kittu",
+  "mobile":"6304547344",
+  "isavail":"True"
+  }
 }
