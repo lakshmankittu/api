@@ -1,4 +1,96 @@
 {
+  "leaveRequests": [
+    {
+      "employeeName": "John Doe",
+      "employeeId": "EMP001",
+      "leaveType": "Annual Leave",
+      "startDate": "2024-01-15",
+      "endDate": "2024-01-20",
+      "reason": "Vacation trip",
+      "status": "Pending"
+    },
+    {
+      "employeeName": "Alice Smith",
+      "employeeId": "EMP002",
+      "leaveType": "Sick Leave",
+      "startDate": "2024-02-05",
+      "endDate": "2024-02-10",
+      "reason": "Flu",
+      "status": "Approved"
+    },
+    {
+      "employeeName": "Bob Johnson",
+      "employeeId": "EMP003",
+      "leaveType": "Maternity Leave",
+      "startDate": "2024-03-12",
+      "endDate": "2024-04-12",
+      "reason": "Expecting a child",
+      "status": "Rejected"
+    },
+    {
+      "employeeName": "Eva Rodriguez",
+      "employeeId": "EMP004",
+      "leaveType": "Personal Leave",
+      "startDate": "2024-05-08",
+      "endDate": "2024-05-10",
+      "reason": "Family event",
+      "status": "Pending"
+    },
+    {
+      "employeeName": "Michael Brown",
+      "employeeId": "EMP005",
+      "leaveType": "Vacation Leave",
+      "startDate": "2024-06-20",
+      "endDate": "2024-06-27",
+      "reason": "Exploring new destinations",
+      "status": "Approved"
+    },
+    {
+      "employeeName": "Sophia Wilson",
+      "employeeId": "EMP006",
+      "leaveType": "Bereavement Leave",
+      "startDate": "2024-07-15",
+      "endDate": "2024-07-18",
+      "reason": "Loss in the family",
+      "status": "Pending"
+    },
+    {
+      "employeeName": "Daniel Lee",
+      "employeeId": "EMP007",
+      "leaveType": "Unpaid Leave",
+      "startDate": "2024-08-02",
+      "endDate": "2024-08-09",
+      "reason": "Extended vacation",
+      "status": "Approved"
+    },
+    {
+      "employeeName": "Olivia Taylor",
+      "employeeId": "EMP008",
+      "leaveType": "Study Leave",
+      "startDate": "2024-09-10",
+      "endDate": "2024-09-20",
+      "reason": "Pursuing higher education",
+      "status": "Pending"
+    },
+    {
+      "employeeName": "William Clark",
+      "employeeId": "EMP009",
+      "leaveType": "Half-Day Leave",
+      "startDate": "2024-10-05",
+      "endDate": "2024-10-05",
+      "reason": "Personal appointment",
+      "status": "Approved"
+    },
+    {
+      "employeeName": "Emma Turner",
+      "employeeId": "EMP010",
+      "leaveType": "Emergency Leave",
+      "startDate": "2024-11-15",
+      "endDate": "2024-11-15",
+      "reason": "Urgent family matter",
+      "status": "Pending"
+    }],
+  
   "key": {
     "name": "kittu",
     "mobile": "6304547344",
