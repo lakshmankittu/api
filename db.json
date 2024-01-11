@@ -1,5 +1,5 @@
 {
-  "leaveRequests": {
+  "leaveRequests": [
     {
       "employeeName": "John Doe",
       "employeeId": "EMP001",
@@ -89,9 +89,7 @@
       "endDate": "2024-11-15",
       "reason": "Urgent family matter",
       "status": "Pending"
-    }
-},
-  
+    }],
   "key": {
     "name": "kittu",
     "mobile": "6304547344",
